@@ -22,7 +22,7 @@ export APP_ID=456 # use your own APP_ID
 sectionctl deploy --account-id $ACCOUNT_ID --app-id $APP_ID
 ```
 
-# What is this sourcery? 🧙‍♀️
+## What is this sourcery? 🧙‍♀️
 
 Section's Node.js module has a "strict" contract that must be met to run an app:
 
